@@ -1,0 +1,15 @@
+Diff was useful in that it highlighted just the changed sections instead of going through a heap of information and manually looking for the differences.
+
+I think that it could be useful in case of making mistakes, as well as building loops. Being able to build one loop, then nesting it and keeping track of this.
+
+I would say when a specific block is completed, that is usually when I choose to save my code.
+
+By manually choosing commits it will enable you to control what is in the log file and ensure there are commits that are functioning. Not having this means commits that may not be finctional or chosen at unhelpful points.
+
+For coding it makes sense to save multiple files together in a commit - as files impact each other. In google docs, it would be expected that changes in one file would not affect another.
+
+Git log and git diff will be helpful in tracking changes, as well as stages in the development cycle. Being able to track how far through a project I might be, as well as how far to go and how difficult sections might be.
+
+It will be easier to see exactly what has changed from previous versions and so always have an easy backup copy.
+
+It seems that git would be useful for app development, but also in creating solutions to the problems in project euler.
