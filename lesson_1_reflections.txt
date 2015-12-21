@@ -13,3 +13,5 @@ Git log and git diff will be helpful in tracking changes, as well as stages in t
 It will be easier to see exactly what has changed from previous versions and so always have an easy backup copy.
 
 It seems that git would be useful for app development, but also in creating solutions to the problems in project euler.
+
+Another Line
